@@ -10,7 +10,7 @@ menu:
   #前端导航: /FrontEndGuide
 # 静心阅读: /tags
 # 光影之路: /instagram
-  随笔: /writesomething
+  # 随笔: /writesomething
 
 # Link to your avatar | 填写头像地址
 avatar: img/xu.jpg
@@ -45,14 +45,14 @@ subnav:
 # Chose ONE as your comment system and keep others disable.
 # 选一个作为网站评论系统，其他保持禁用。
 
-disqus: 
+disqus:
   # on: true
   shortname: luuman
   # https://help.disqus.com/customer/en/portal/articles/466208-what-s-a-shortname-
-  # It is unnecessary to enable disqus here if 
-  # you have set "disqus_shortname" in your site's "_config.yml" 
+  # It is unnecessary to enable disqus here if
+  # you have set "disqus_shortname" in your site's "_config.yml"
 
-duoshuo: 
+duoshuo:
   # on: true
   domain: luuman
   # 是否开启多说评论，http://duoshuo.com/create-site/
@@ -68,7 +68,7 @@ gitment:
 
 youyan:
   #on: true
-  id: 
+  id:
   # 是否开启友言评论，http://www.uyan.cc/index.php
   # id 中填写你的友言用户数字ID，注册后进入后台管理即可查看
   # 友言服务在 Web 环境下运行，普通本地环境无法查看，请部署后在线上测试。
@@ -93,7 +93,7 @@ highlight_style:
   # Set inline_code to style highlight text
   # Chose a highlight theme for code block
   # 通过 inline_code 切换内置文本高亮样式 Value: 0 - 9 可选
-  # 通过 code_block 切换内置代码高亮配色主题  Value: 0 - 4 
+  # 通过 code_block 切换内置代码高亮配色主题  Value: 0 - 4
 
 blockquote_style:
   #on: true
@@ -104,7 +104,7 @@ blockquote_style:
 left_col_width: 300
 
 # 目录中标题不换行
-# Keep TOC title on the same line | 
+# Keep TOC title on the same line |
 toc_nowrap: false
 
 # 自定义"阅读全文"链接按钮的显示文字
@@ -117,7 +117,7 @@ excerpt_link: 大航海 #修改more>>的文字
 
 # 是否开启主页及加载头像时的动画效果
 # Animation in Homepage and Loading avatar
-animate: true
+animate: false
 
 
 # >>> Small features | 小功能设置 <<<
