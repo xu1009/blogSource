@@ -3,7 +3,7 @@ title: hexo+githubpages搭建个人博客
 date: 2017-06-21 10:21:51
 tags: 学习
 ---
-<!-- toc -->
+
 ## Hexo安装，hexo基于node，首先需要安装nodejs  
 * 安装hexo  
 
@@ -67,4 +67,3 @@ tags: 学习
 #### Docs: http://hexo.io/docs/deployment.html
 * deploy:
 * type:
-

@@ -63,8 +63,8 @@ gitment:
   on: true
   owner: xu1009
   repo: xu1009.github.io
-  client_id: 6ce4c127cbff7d5540c2
-  client_secret: 4c1cafc3880ee908111dfca1a6b8a91af4fd07d6
+  client_id: 0ad863eabf86ad726581
+  client_secret: da4e61edb9e9f8f478f36c4f833ec87104134a0f
 
 youyan:
   #on: true
@@ -109,7 +109,7 @@ toc_nowrap: false
 
 # 自定义"阅读全文"链接按钮的显示文字
 # Customize the text on excerpt link
-excerpt_link: 大航海 #修改more>>的文字
+excerpt_link: Read More #修改more>>的文字
 
 # 是否显示边栏中的搜索框（仅样式，未添加搜索功能）
 # Search Box in left column
@@ -119,6 +119,12 @@ excerpt_link: 大航海 #修改more>>的文字
 # Animation in Homepage and Loading avatar
 animate: false
 
+# Excerpt
+## Auto creat excerpt with not <!--more-->
+## Enable will truncate auto_excerpt.lines rows in post head to replace excerpt.
+auto_excerpt:
+    enable: true
+    lines: 5
 
 # >>> Small features | 小功能设置 <<<
 
